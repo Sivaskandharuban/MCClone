@@ -42,4 +42,5 @@ app.post("/api/createperson", function (req, res) {
                           pgp.end();      
                         });
 });
+};
 
